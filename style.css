@@ -2,9 +2,25 @@
     width: 100px;
     height: 100px;
     display: inline-block;
-    margin: 5px;
+    margin: 0 5px 5px 0;
 }
 
 .red {
     background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.vr {
+    margin-bottom: 10px;
 }
